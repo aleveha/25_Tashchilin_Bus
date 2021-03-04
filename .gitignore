@@ -1,0 +1,4 @@
+# Project exclude paths
+/out/
+./.idea
+./25_Tashchilin_Bus.iml
