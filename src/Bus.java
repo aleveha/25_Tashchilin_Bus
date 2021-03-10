@@ -12,6 +12,7 @@ public class Bus {
     }
     public Bus() {
         this.seats = 40;
+        this.owner = "";
     }
 
     //getters
